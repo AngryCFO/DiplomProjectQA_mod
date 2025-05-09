@@ -10,7 +10,7 @@
 
 - [Тест-кейсы](https://docs.google.com/spreadsheets/d/1SZQpvwa5PksNxRopZcktfAXzVb4jnhh0Fl4UzhrBBLY/edit?usp=sharing) для проверки приложения (`documentation/Cases.xlsx`).
 
-- [Баг-репорты](https://github.com/AngryCFO/DiplomProjectQA_mod/issues) оформленные как (`Issues`).
+- [Баг-репорты](https://github.com/AngryCFO/DiplomProjectQA/issues) оформленные как (`Issues`).
 
 - [allure-отчет](https://AngryCFO.github.io/DiplomProjectQA_mod/documentation/allure-report) с результатами прогона авто-тестов, а так же запакованный в zip-архив (`documentation/allure-results.zip`).
 
