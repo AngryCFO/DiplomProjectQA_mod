@@ -12,7 +12,7 @@
 
 - [Баг-репорты](https://github.com/AngryCFO/DiplomProjectQA/issues) оформленные как (`Issues`).
 
-- [allure-отчет](https://AngryCFO.github.io/DiplomProjectQA/documentation/allure-report) с результатами прогона авто-тестов, а так же запакованный в zip-архив (`documentation/allure-results.zip`).
+- [allure-отчет](https://AngryCFO.github.io/DiplomProjectQA_mod/documentation/allure-report) с результатами прогона авто-тестов, а так же запакованный в zip-архив (`documentation/allure-results.zip`).
 
 - [Отчет о тестировании](https://github.com/AngryCFO/DiplomProjectQA/documentation/Result.md) со сравнением ручного и автоматизированного тестирования, затраченного времени, найденные проблемы (`documentation/Result.md`).
 
