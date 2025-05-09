@@ -1,0 +1,185 @@
+{
+  "name": "Отображение описания развернутой цитаты 8",
+  "start": 1738258063382,
+  "stop": 1738258076110,
+  "stage": "finished",
+  "description": null,
+  "descriptionHtml": null,
+  "status": "passed",
+  "statusDetails": null,
+  "steps": [
+    {
+      "name": "Проверка на отображение кнопки SIGN IN на странице авторизации",
+      "start": 1738258064021,
+      "stop": 1738258064021,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на иконку пользователя в app bar",
+      "start": 1738258074390,
+      "stop": 1738258074390,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Выход из приложения",
+      "start": 1738258074754,
+      "stop": 1738258074754,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести логин 'login2'",
+      "start": 1738258075035,
+      "stop": 1738258075035,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести пароль 'password2'",
+      "start": 1738258075060,
+      "stop": 1738258075060,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать войти",
+      "start": 1738258075074,
+      "stop": 1738258075074,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на иконку бабочки в app bar",
+      "start": 1738258075336,
+      "stop": 1738258075336,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажимаем на элемент списка по позиции: 7",
+      "start": 1738258075620,
+      "stop": 1738258075620,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Прокрутить до позиции 7",
+      "start": 1738258075955,
+      "stop": 1738258075955,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Проверяем текст описания цитаты: \"Каждый, кто оказывается в стенах хосписа, имеет огромное значение в жизни хосписа и его подопечных\"",
+      "start": 1738258075969,
+      "stop": 1738258075969,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "uuid": "5d71a8c6-1d2b-431f-a691-13e69468775f",
+  "historyId": "b2f933ae2c7d7d17c5b7618d44fc7fce",
+  "fullName": "ru.iteco.fmhandroid.ui.test.OurMissionTest.shouldDisplayDescriptionOfQuotes8",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.iteco.fmhandroid.ui.test"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.iteco.fmhandroid.ui.test.OurMissionTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "shouldDisplayDescriptionOfQuotes8"
+    },
+    {
+      "name": "suite",
+      "value": "ru.iteco.fmhandroid.ui.test.OurMissionTest"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(467)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "epic",
+      "value": "Cтраница c тематическими цитатами «Our Mission»"
+    }
+  ]
+}

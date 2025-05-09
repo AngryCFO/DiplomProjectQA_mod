@@ -1,0 +1,198 @@
+{
+  "name": "Навигация к странице Main с приветствующей страницы 'News'",
+  "start": 1738257873919,
+  "stop": 1738257887379,
+  "stage": "finished",
+  "description": null,
+  "descriptionHtml": null,
+  "status": "passed",
+  "statusDetails": null,
+  "steps": [
+    {
+      "name": "Проверка на отображение кнопки SIGN IN на странице авторизации",
+      "start": 1738257874571,
+      "stop": 1738257874571,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на иконку пользователя в app bar",
+      "start": 1738257885000,
+      "stop": 1738257885000,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Выход из приложения",
+      "start": 1738257885352,
+      "stop": 1738257885353,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести логин 'login2'",
+      "start": 1738257885636,
+      "stop": 1738257885636,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести пароль 'password2'",
+      "start": 1738257885659,
+      "stop": 1738257885659,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать войти",
+      "start": 1738257885676,
+      "stop": 1738257885676,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать гамбургер-меню",
+      "start": 1738257885959,
+      "stop": 1738257885959,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать кнопку News в гамбургер-меню",
+      "start": 1738257886287,
+      "stop": 1738257886287,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать гамбургер-меню",
+      "start": 1738257886552,
+      "stop": 1738257886552,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать кнопку Main в гамбургер-меню",
+      "start": 1738257886856,
+      "stop": 1738257886856,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Проверка наличия элемента на основной странице Main",
+      "start": 1738257887136,
+      "stop": 1738257887136,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "uuid": "60d78dd4-bf3d-48c3-ab91-00ffcba50595",
+  "historyId": "ffa3935074209498e40b826a0a0c4a29",
+  "fullName": "ru.iteco.fmhandroid.ui.test.NewsTest.shouldGoToMainPageFromNewsPage",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.iteco.fmhandroid.ui.test"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.iteco.fmhandroid.ui.test.NewsTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "shouldGoToMainPageFromNewsPage"
+    },
+    {
+      "name": "suite",
+      "value": "ru.iteco.fmhandroid.ui.test.NewsTest"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(467)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "epic",
+      "value": "Приветствующая страница «News»"
+    }
+  ]
+}

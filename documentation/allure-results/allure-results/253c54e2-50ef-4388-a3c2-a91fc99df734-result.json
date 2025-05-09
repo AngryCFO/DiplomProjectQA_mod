@@ -1,0 +1,185 @@
+{
+  "name": "Выход из раздела About кнопкой назад в приложении",
+  "start": 1738257306161,
+  "stop": 1738257319207,
+  "stage": "finished",
+  "description": null,
+  "descriptionHtml": null,
+  "status": "passed",
+  "statusDetails": null,
+  "steps": [
+    {
+      "name": "Проверка на отображение кнопки SIGN IN на странице авторизации",
+      "start": 1738257306822,
+      "stop": 1738257306822,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на иконку пользователя в app bar",
+      "start": 1738257317193,
+      "stop": 1738257317193,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Выход из приложения",
+      "start": 1738257317538,
+      "stop": 1738257317538,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести логин 'login2'",
+      "start": 1738257317842,
+      "stop": 1738257317842,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести пароль 'password2'",
+      "start": 1738257317859,
+      "stop": 1738257317859,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать войти",
+      "start": 1738257317876,
+      "stop": 1738257317876,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать гамбургер-меню",
+      "start": 1738257318155,
+      "stop": 1738257318155,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать кнопку About в гамбургер-меню",
+      "start": 1738257318487,
+      "stop": 1738257318487,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать  кнопку назад на странице About",
+      "start": 1738257318752,
+      "stop": 1738257318752,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Проверка наличия элемента на основной странице Main",
+      "start": 1738257319040,
+      "stop": 1738257319040,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "uuid": "253c54e2-50ef-4388-a3c2-a91fc99df734",
+  "historyId": "6b515424cd44397bd1444633764e34d4",
+  "fullName": "ru.iteco.fmhandroid.ui.test.AboutTest.checkingAllElemInAbout",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.iteco.fmhandroid.ui.test"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.iteco.fmhandroid.ui.test.AboutTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "checkingAllElemInAbout"
+    },
+    {
+      "name": "suite",
+      "value": "ru.iteco.fmhandroid.ui.test.AboutTest"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(467)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "epic",
+      "value": "Страница о приложении «About»"
+    }
+  ]
+}

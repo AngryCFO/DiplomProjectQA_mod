@@ -1,0 +1,120 @@
+{
+  "name": "Авторизация с пустым полем Password",
+  "start": 1738257394898,
+  "stop": 1738257398518,
+  "stage": "finished",
+  "description": null,
+  "descriptionHtml": null,
+  "status": "passed",
+  "statusDetails": null,
+  "steps": [
+    {
+      "name": "Проверка на отображение кнопки SIGN IN на странице авторизации",
+      "start": 1738257395071,
+      "stop": 1738257395071,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести логин 'login2'",
+      "start": 1738257398037,
+      "stop": 1738257398037,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести пароль ' '",
+      "start": 1738257398055,
+      "stop": 1738257398055,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать войти",
+      "start": 1738257398074,
+      "stop": 1738257398074,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Всплывающее сообщение о пустом поле при авторизации",
+      "start": 1738257398411,
+      "stop": 1738257398411,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "uuid": "06d26140-56f5-4a02-b67b-d218fe30ab60",
+  "historyId": "14af66f32802866952deabeea2b027d3",
+  "fullName": "ru.iteco.fmhandroid.ui.test.AuthorizationTest.authorizationWithEmptyPassword",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.iteco.fmhandroid.ui.test"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.iteco.fmhandroid.ui.test.AuthorizationTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "authorizationWithEmptyPassword"
+    },
+    {
+      "name": "suite",
+      "value": "ru.iteco.fmhandroid.ui.test.AuthorizationTest"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(467)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "epic",
+      "value": "Страница авторизации «Authorization»"
+    }
+  ]
+}

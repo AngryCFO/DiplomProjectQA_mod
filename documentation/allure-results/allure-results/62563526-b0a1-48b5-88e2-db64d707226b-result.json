@@ -1,0 +1,393 @@
+{
+  "name": "Проверить сортировку даты новостей",
+  "start": 1738257746143,
+  "stop": 1738257759597,
+  "stage": "finished",
+  "description": null,
+  "descriptionHtml": null,
+  "status": "passed",
+  "statusDetails": null,
+  "steps": [
+    {
+      "name": "Проверка на отображение кнопки SIGN IN на странице авторизации",
+      "start": 1738257746808,
+      "stop": 1738257746808,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать на иконку пользователя в app bar",
+      "start": 1738257757200,
+      "stop": 1738257757200,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Выход из приложения",
+      "start": 1738257757537,
+      "stop": 1738257757538,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести логин 'login2'",
+      "start": 1738257757802,
+      "stop": 1738257757802,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Ввести пароль 'password2'",
+      "start": 1738257757826,
+      "stop": 1738257757826,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать войти",
+      "start": 1738257757842,
+      "stop": 1738257757842,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать гамбургер-меню",
+      "start": 1738257758125,
+      "stop": 1738257758125,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать кнопку News в гамбургер-меню",
+      "start": 1738257758437,
+      "stop": 1738257758437,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Отркрыть страницу управления новостями",
+      "start": 1738257758720,
+      "stop": 1738257758720,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Получить дату первой новости",
+      "start": 1738257759049,
+      "stop": 1738257759049,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Скролить список новостей до элемента на позиции 0",
+      "start": 1738257759049,
+      "stop": 1738257759049,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Получить дату новости по позиции 0",
+      "start": 1738257759052,
+      "stop": 1738257759052,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Получить дату последней новости",
+      "start": 1738257759053,
+      "stop": 1738257759053,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Получить количество элементов в списке новостей",
+      "start": 1738257759053,
+      "stop": 1738257759053,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Скролить список новостей до элемента на позиции 7",
+      "start": 1738257759054,
+      "stop": 1738257759054,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Получить количество элементов в списке новостей",
+      "start": 1738257759090,
+      "stop": 1738257759090,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Получить дату новости по позиции 7",
+      "start": 1738257759091,
+      "stop": 1738257759091,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Нажать кнопку сортировки новостей",
+      "start": 1738257759092,
+      "stop": 1738257759092,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Получить дату первой новости",
+      "start": 1738257759400,
+      "stop": 1738257759400,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Скролить список новостей до элемента на позиции 0",
+      "start": 1738257759400,
+      "stop": 1738257759400,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Получить дату новости по позиции 0",
+      "start": 1738257759418,
+      "stop": 1738257759418,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Получить дату последней новости",
+      "start": 1738257759421,
+      "stop": 1738257759421,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Получить количество элементов в списке новостей",
+      "start": 1738257759421,
+      "stop": 1738257759421,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Скролить список новостей до элемента на позиции 7",
+      "start": 1738257759422,
+      "stop": 1738257759422,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Получить количество элементов в списке новостей",
+      "start": 1738257759437,
+      "stop": 1738257759437,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    },
+    {
+      "name": "Получить дату новости по позиции 7",
+      "start": 1738257759438,
+      "stop": 1738257759438,
+      "stage": "finished",
+      "description": null,
+      "descriptionHtml": null,
+      "status": "passed",
+      "statusDetails": null,
+      "steps": [],
+      "attachments": [],
+      "parameters": []
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "uuid": "62563526-b0a1-48b5-88e2-db64d707226b",
+  "historyId": "cef91cab218af496ffc68070ccf0c6b8",
+  "fullName": "ru.iteco.fmhandroid.ui.test.NewsSearchTest.verifyNewsDateSorting",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.iteco.fmhandroid.ui.test"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.iteco.fmhandroid.ui.test.NewsSearchTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "verifyNewsDateSorting"
+    },
+    {
+      "name": "suite",
+      "value": "ru.iteco.fmhandroid.ui.test.NewsSearchTest"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(467)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "epic",
+      "value": "Поиск новостей на странице управления «News»"
+    }
+  ]
+}

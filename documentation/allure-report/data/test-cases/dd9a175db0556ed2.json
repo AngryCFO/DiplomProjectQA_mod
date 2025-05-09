@@ -1,0 +1,409 @@
+{
+  "uid": "dd9a175db0556ed2",
+  "name": "Ввод поочередно каждой категории при создании новости",
+  "fullName": "ru.iteco.fmhandroid.ui.test.EditorialTest.theFieldShouldAcceptAllNewsCategories",
+  "historyId": "716d44d7df339cf7d58430ac1a3dec09",
+  "time": {
+    "start": 1746811022164,
+    "stop": 1746811035672,
+    "duration": 13508
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "testStage": {
+    "status": "passed",
+    "steps": [
+      {
+        "name": "Проверка на отображение кнопки SIGN IN на странице авторизации",
+        "time": {
+          "start": 1746811022823,
+          "stop": 1746811022823,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать на иконку пользователя в app bar",
+        "time": {
+          "start": 1746811033194,
+          "stop": 1746811033194,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Выход из приложения",
+        "time": {
+          "start": 1746811033537,
+          "stop": 1746811033537,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести логин 'login2'",
+        "time": {
+          "start": 1746811033801,
+          "stop": 1746811033801,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести пароль 'password2'",
+        "time": {
+          "start": 1746811033826,
+          "stop": 1746811033826,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать войти",
+        "time": {
+          "start": 1746811033841,
+          "stop": 1746811033841,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать гамбургер-меню",
+        "time": {
+          "start": 1746811034122,
+          "stop": 1746811034122,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать кнопку News в гамбургер-меню",
+        "time": {
+          "start": 1746811034445,
+          "stop": 1746811034445,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Отркрыть страницу управления новостями",
+        "time": {
+          "start": 1746811034717,
+          "stop": 1746811034717,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Отркрыть страницу добавления новости",
+        "time": {
+          "start": 1746811035057,
+          "stop": 1746811035057,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести поочередно каждую категорию",
+        "time": {
+          "start": 1746811035368,
+          "stop": 1746811035368,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Объявление'",
+        "time": {
+          "start": 1746811035368,
+          "stop": 1746811035368,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'День рождения'",
+        "time": {
+          "start": 1746811035392,
+          "stop": 1746811035392,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Зарплата'",
+        "time": {
+          "start": 1746811035408,
+          "stop": 1746811035408,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Профсоюз'",
+        "time": {
+          "start": 1746811035423,
+          "stop": 1746811035423,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Праздник'",
+        "time": {
+          "start": 1746811035440,
+          "stop": 1746811035440,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Массаж'",
+        "time": {
+          "start": 1746811035458,
+          "stop": 1746811035458,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Благодарность'",
+        "time": {
+          "start": 1746811035474,
+          "stop": 1746811035474,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Нужна помощь'",
+        "time": {
+          "start": 1746811035492,
+          "stop": 1746811035492,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      }
+    ],
+    "attachments": [],
+    "parameters": [],
+    "stepsCount": 19,
+    "hasContent": true,
+    "shouldDisplayMessage": false,
+    "attachmentsCount": 0,
+    "attachmentStep": false
+  },
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.iteco.fmhandroid.ui.test"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.iteco.fmhandroid.ui.test.EditorialTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "theFieldShouldAcceptAllNewsCategories"
+    },
+    {
+      "name": "suite",
+      "value": "ru.iteco.fmhandroid.ui.test.EditorialTest"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(467)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "epic",
+      "value": "Страница «News» создание, редактирование, удаление новости"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "dd9a175db0556ed2.json",
+  "parameterValues": []
+}

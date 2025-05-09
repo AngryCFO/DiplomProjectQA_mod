@@ -1,0 +1,579 @@
+{
+  "uid": "414eea796e12622f",
+  "name": "Поиск через фильтр новости со статусом NOT ACTIVE",
+  "fullName": "ru.iteco.fmhandroid.ui.test.NewsSearchTest.shouldFilterNewsByStatusNotActive",
+  "historyId": "f4bdd07d02068afcf3a6cbce19dfc850",
+  "time": {
+    "start": 1746811232556,
+    "stop": 1746811248549,
+    "duration": 15993
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "testStage": {
+    "status": "passed",
+    "steps": [
+      {
+        "name": "Проверка на отображение кнопки SIGN IN на странице авторизации",
+        "time": {
+          "start": 1746811233205,
+          "stop": 1746811233205,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать на иконку пользователя в app bar",
+        "time": {
+          "start": 1746811243648,
+          "stop": 1746811243648,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Выход из приложения",
+        "time": {
+          "start": 1746811244013,
+          "stop": 1746811244013,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести логин 'login2'",
+        "time": {
+          "start": 1746811244289,
+          "stop": 1746811244289,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести пароль 'password2'",
+        "time": {
+          "start": 1746811244322,
+          "stop": 1746811244322,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать войти",
+        "time": {
+          "start": 1746811244343,
+          "stop": 1746811244343,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать гамбургер-меню",
+        "time": {
+          "start": 1746811244625,
+          "stop": 1746811244625,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать кнопку News в гамбургер-меню",
+        "time": {
+          "start": 1746811244922,
+          "stop": 1746811244922,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Отркрыть страницу управления новостями",
+        "time": {
+          "start": 1746811245205,
+          "stop": 1746811245205,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Создание и редактирование новости в статус 'NOT ACTIVE'",
+        "time": {
+          "start": 1746811245561,
+          "stop": 1746811245561,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Создать новость c заголовком 'Издание № 790'",
+        "time": {
+          "start": 1746811245563,
+          "stop": 1746811245563,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Отркрыть страницу добавления новости",
+        "time": {
+          "start": 1746811245563,
+          "stop": 1746811245563,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести категорию новости Объявление",
+        "time": {
+          "start": 1746811245874,
+          "stop": 1746811245874,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести заголовок новости 'Издание № 790'",
+        "time": {
+          "start": 1746811245886,
+          "stop": 1746811245886,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести дату новости '33'",
+        "time": {
+          "start": 1746811245905,
+          "stop": 1746811245905,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести время новости '20:20'",
+        "time": {
+          "start": 1746811245923,
+          "stop": 1746811245923,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести описание новости 'Эта новость создана студентом образовательной платформы 'Нетология''",
+        "time": {
+          "start": 1746811245940,
+          "stop": 1746811245940,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Сохранение новости",
+        "time": {
+          "start": 1746811245944,
+          "stop": 1746811245944,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Прокрутить до опубликованной новости 'Издание № 790'",
+        "time": {
+          "start": 1746811246247,
+          "stop": 1746811246247,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Редактирование новости с заголовком 'Издание № 790'",
+        "time": {
+          "start": 1746811246257,
+          "stop": 1746811246257,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Тумблер активности /не активности новости",
+        "time": {
+          "start": 1746811246569,
+          "stop": 1746811246569,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Сохранение новости",
+        "time": {
+          "start": 1746811247120,
+          "stop": 1746811247120,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Прокрутить до опубликованной новости 'Издание № 790'",
+        "time": {
+          "start": 1746811247399,
+          "stop": 1746811247399,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Открыть фильтр новостей",
+        "time": {
+          "start": 1746811247418,
+          "stop": 1746811247418,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать чек-бокс Active",
+        "time": {
+          "start": 1746811247719,
+          "stop": 1746811247719,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Применить фильтр",
+        "time": {
+          "start": 1746811248005,
+          "stop": 1746811248005,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Прокрутить до опубликованной новости 'Издание № 790'",
+        "time": {
+          "start": 1746811248313,
+          "stop": 1746811248314,
+          "duration": 1
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Проверить, что новость \"Издание № 790\" имеет статус: \"Not active\"",
+        "time": {
+          "start": 1746811248335,
+          "stop": 1746811248335,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Получение статуса новости: \"Издание № 790\" с ожидаемым статусом: \"Not active\"",
+        "time": {
+          "start": 1746811248335,
+          "stop": 1746811248335,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      }
+    ],
+    "attachments": [],
+    "parameters": [],
+    "stepsCount": 29,
+    "hasContent": true,
+    "shouldDisplayMessage": false,
+    "attachmentsCount": 0,
+    "attachmentStep": false
+  },
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.iteco.fmhandroid.ui.test"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.iteco.fmhandroid.ui.test.NewsSearchTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "shouldFilterNewsByStatusNotActive"
+    },
+    {
+      "name": "suite",
+      "value": "ru.iteco.fmhandroid.ui.test.NewsSearchTest"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(467)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "epic",
+      "value": "Поиск новостей на странице управления «News»"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "414eea796e12622f.json",
+  "parameterValues": []
+}

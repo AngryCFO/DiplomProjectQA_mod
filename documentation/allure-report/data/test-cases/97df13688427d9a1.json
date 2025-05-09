@@ -1,0 +1,562 @@
+{
+  "uid": "97df13688427d9a1",
+  "name": "Ввод поочередно каждой категории при редактировании новости",
+  "fullName": "ru.iteco.fmhandroid.ui.test.EditorialTest.enterEachCategoryInTurn",
+  "historyId": "d43183ad23c97ebdb89f4686bba00e26",
+  "time": {
+    "start": 1746811107391,
+    "stop": 1746811121901,
+    "duration": 14510
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "testStage": {
+    "status": "passed",
+    "steps": [
+      {
+        "name": "Проверка на отображение кнопки SIGN IN на странице авторизации",
+        "time": {
+          "start": 1746811108038,
+          "stop": 1746811108038,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать на иконку пользователя в app bar",
+        "time": {
+          "start": 1746811118412,
+          "stop": 1746811118412,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Выход из приложения",
+        "time": {
+          "start": 1746811118755,
+          "stop": 1746811118755,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести логин 'login2'",
+        "time": {
+          "start": 1746811119036,
+          "stop": 1746811119036,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести пароль 'password2'",
+        "time": {
+          "start": 1746811119058,
+          "stop": 1746811119058,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать войти",
+        "time": {
+          "start": 1746811119075,
+          "stop": 1746811119075,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать гамбургер-меню",
+        "time": {
+          "start": 1746811119355,
+          "stop": 1746811119355,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать кнопку News в гамбургер-меню",
+        "time": {
+          "start": 1746811119654,
+          "stop": 1746811119654,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Отркрыть страницу управления новостями",
+        "time": {
+          "start": 1746811119932,
+          "stop": 1746811119932,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Создать новость c заголовком 'Издание № 536'",
+        "time": {
+          "start": 1746811120266,
+          "stop": 1746811120266,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Отркрыть страницу добавления новости",
+        "time": {
+          "start": 1746811120266,
+          "stop": 1746811120266,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести категорию новости День рождения",
+        "time": {
+          "start": 1746811120568,
+          "stop": 1746811120568,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести заголовок новости 'Издание № 536'",
+        "time": {
+          "start": 1746811120580,
+          "stop": 1746811120580,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести дату новости '3'",
+        "time": {
+          "start": 1746811120606,
+          "stop": 1746811120606,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести время новости '20:18'",
+        "time": {
+          "start": 1746811120623,
+          "stop": 1746811120623,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести описание новости 'Эта новость создана студентом образовательной платформы 'Нетология''",
+        "time": {
+          "start": 1746811120639,
+          "stop": 1746811120639,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Сохранение новости",
+        "time": {
+          "start": 1746811120642,
+          "stop": 1746811120642,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Прокрутить до опубликованной новости 'Издание № 536'",
+        "time": {
+          "start": 1746811120938,
+          "stop": 1746811120938,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Редактирование новости с заголовком 'Издание № 536'",
+        "time": {
+          "start": 1746811120972,
+          "stop": 1746811120972,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести поочередно каждую категорию",
+        "time": {
+          "start": 1746811121515,
+          "stop": 1746811121515,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Объявление'",
+        "time": {
+          "start": 1746811121515,
+          "stop": 1746811121515,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'День рождения'",
+        "time": {
+          "start": 1746811121538,
+          "stop": 1746811121538,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Зарплата'",
+        "time": {
+          "start": 1746811121557,
+          "stop": 1746811121557,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Профсоюз'",
+        "time": {
+          "start": 1746811121572,
+          "stop": 1746811121572,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Праздник'",
+        "time": {
+          "start": 1746811121588,
+          "stop": 1746811121588,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Массаж'",
+        "time": {
+          "start": 1746811121608,
+          "stop": 1746811121608,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Благодарность'",
+        "time": {
+          "start": 1746811121623,
+          "stop": 1746811121623,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Установка категории 'Нужна помощь'",
+        "time": {
+          "start": 1746811121638,
+          "stop": 1746811121638,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      }
+    ],
+    "attachments": [],
+    "parameters": [],
+    "stepsCount": 28,
+    "hasContent": true,
+    "shouldDisplayMessage": false,
+    "attachmentsCount": 0,
+    "attachmentStep": false
+  },
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.iteco.fmhandroid.ui.test"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.iteco.fmhandroid.ui.test.EditorialTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "enterEachCategoryInTurn"
+    },
+    {
+      "name": "suite",
+      "value": "ru.iteco.fmhandroid.ui.test.EditorialTest"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(467)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "epic",
+      "value": "Страница «News» создание, редактирование, удаление новости"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "97df13688427d9a1.json",
+  "parameterValues": []
+}

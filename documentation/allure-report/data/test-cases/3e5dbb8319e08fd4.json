@@ -1,0 +1,494 @@
+{
+  "uid": "3e5dbb8319e08fd4",
+  "name": "Статус отредактированной новости должен быть NOT ACTIVE",
+  "fullName": "ru.iteco.fmhandroid.ui.test.EditorialTest.editedNewsStatusShouldBeNotActive",
+  "historyId": "716961533ddba2f79e829a22afbcb0a2",
+  "time": {
+    "start": 1746811092465,
+    "stop": 1746811107377,
+    "duration": 14912
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "testStage": {
+    "status": "passed",
+    "steps": [
+      {
+        "name": "Проверка на отображение кнопки SIGN IN на странице авторизации",
+        "time": {
+          "start": 1746811093138,
+          "stop": 1746811093139,
+          "duration": 1
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать на иконку пользователя в app bar",
+        "time": {
+          "start": 1746811103498,
+          "stop": 1746811103498,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Выход из приложения",
+        "time": {
+          "start": 1746811103837,
+          "stop": 1746811103837,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести логин 'login2'",
+        "time": {
+          "start": 1746811104100,
+          "stop": 1746811104100,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести пароль 'password2'",
+        "time": {
+          "start": 1746811104126,
+          "stop": 1746811104126,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать войти",
+        "time": {
+          "start": 1746811104141,
+          "stop": 1746811104141,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать гамбургер-меню",
+        "time": {
+          "start": 1746811104420,
+          "stop": 1746811104420,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Нажать кнопку News в гамбургер-меню",
+        "time": {
+          "start": 1746811104739,
+          "stop": 1746811104739,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Отркрыть страницу управления новостями",
+        "time": {
+          "start": 1746811105002,
+          "stop": 1746811105002,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Создать новость c заголовком 'Издание № 544'",
+        "time": {
+          "start": 1746811105336,
+          "stop": 1746811105336,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Отркрыть страницу добавления новости",
+        "time": {
+          "start": 1746811105336,
+          "stop": 1746811105336,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести категорию новости Объявление",
+        "time": {
+          "start": 1746811105634,
+          "stop": 1746811105634,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести заголовок новости 'Издание № 544'",
+        "time": {
+          "start": 1746811105644,
+          "stop": 1746811105644,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести дату новости '3'",
+        "time": {
+          "start": 1746811105673,
+          "stop": 1746811105673,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести время новости '20:18'",
+        "time": {
+          "start": 1746811105689,
+          "stop": 1746811105689,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Ввести описание новости 'Эта новость создана студентом образовательной платформы 'Нетология''",
+        "time": {
+          "start": 1746811105705,
+          "stop": 1746811105705,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Сохранение новости",
+        "time": {
+          "start": 1746811105711,
+          "stop": 1746811105711,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Прокрутить до опубликованной новости 'Издание № 544'",
+        "time": {
+          "start": 1746811106018,
+          "stop": 1746811106018,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Редактирование новости с заголовком 'Издание № 544'",
+        "time": {
+          "start": 1746811106055,
+          "stop": 1746811106055,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Тумблер активности /не активности новости",
+        "time": {
+          "start": 1746811106361,
+          "stop": 1746811106361,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Сохранение новости",
+        "time": {
+          "start": 1746811106918,
+          "stop": 1746811106918,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Прокрутить до опубликованной новости 'Издание № 544'",
+        "time": {
+          "start": 1746811107205,
+          "stop": 1746811107205,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Проверить, что новость \"Издание № 544\" имеет статус: \"Not active\"",
+        "time": {
+          "start": 1746811107240,
+          "stop": 1746811107240,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      },
+      {
+        "name": "Получение статуса новости: \"Издание № 544\" с ожидаемым статусом: \"Not active\"",
+        "time": {
+          "start": 1746811107240,
+          "stop": 1746811107240,
+          "duration": 0
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "stepsCount": 0,
+        "hasContent": false,
+        "shouldDisplayMessage": false,
+        "attachmentsCount": 0,
+        "attachmentStep": false
+      }
+    ],
+    "attachments": [],
+    "parameters": [],
+    "stepsCount": 24,
+    "hasContent": true,
+    "shouldDisplayMessage": false,
+    "attachmentsCount": 0,
+    "attachmentStep": false
+  },
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.iteco.fmhandroid.ui.test"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.iteco.fmhandroid.ui.test.EditorialTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "editedNewsStatusShouldBeNotActive"
+    },
+    {
+      "name": "suite",
+      "value": "ru.iteco.fmhandroid.ui.test.EditorialTest"
+    },
+    {
+      "name": "host",
+      "value": "localhost"
+    },
+    {
+      "name": "thread",
+      "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(467)"
+    },
+    {
+      "name": "framework",
+      "value": "junit4"
+    },
+    {
+      "name": "language",
+      "value": "kotlin"
+    },
+    {
+      "name": "epic",
+      "value": "Страница «News» создание, редактирование, удаление новости"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "3e5dbb8319e08fd4.json",
+  "parameterValues": []
+}
